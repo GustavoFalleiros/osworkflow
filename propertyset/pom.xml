@@ -13,11 +13,6 @@
     <description>OpenSymphony Propertyset</description>
     <repositories>
         <repository>
-            <id>OpenSymphony mirror repository</id>
-            <name>OpenSymphony mirror repository</name>
-            <url>https://oswokflow-repository.googlecode.com/svn/deploy/</url>
-        </repository>
-        <repository>
             <id>atlassian</id>
             <name>Atlassian repository</name>
             <url>https://maven.atlassian.com/content/groups/public/</url>
