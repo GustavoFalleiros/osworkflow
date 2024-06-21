@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>opensymphony</groupId>
   <artifactId>osworkflow-build</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <modules>
       <module>oscore</module>
@@ -44,11 +44,4 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-        <repository>
-            <id>local-deploy</id>
-            <name>local-deploy</name>
-            <url>file:../osworkflow-deploy</url>
-        </repository>
-    </distributionManagement>
 </project>
